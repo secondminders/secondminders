@@ -142,21 +142,13 @@ GitHub usually deletes it automatically.
 - Avoid unrelated changes in the same commit.
 - Use squash merge for a clean, linear history.
 
+---
 
-```Markdown
-docs/
-    core-concepts.md
-    social-spaces.md
-    combinatorial-intelligence.md
-    multidimensional-thinking.md
-    ...
-    diagrams/
-MANIFESTO.md
-PRINCIPLES.md
-CONTRIBUTING.md
-LICENSE
-README.md
-```
+> 📁 **Repository Structure**  
+> For the complete directory layout of the project, see:  
+> **[PROJECT_STRUCTURE.md](PROJECT_STRUCTURE.md)**.
+
+---
 
 # 📄 How to Contribute (Non-technical)
 
